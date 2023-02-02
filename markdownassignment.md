@@ -3,8 +3,9 @@
 </head>
 
 Here is a [lovely picture.](images/catimage.jpeg)
+![image align="right"](/images/catimage.jpeg)
 
-Adding colours was super easy to figure out.
+Adding colours was definitely super easy to figure out.
 
 Wow, I wonder [what this is.](readme3.md)
 
