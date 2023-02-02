@@ -2,8 +2,10 @@
 <h1 align="center">Markdown Assignment</h1>
 </head>
 
-Here is a [lovely picture.](images/catimage.jpeg)
-![cat](/img/images/catimage.jpeg#right)
+Here is a [lovely picture.](images/cow.jpg)
+<p align="right">
+  <img src="images/cow.jpg" />
+</p>
 
 Adding colours was definitely super easy to figure out.
 
