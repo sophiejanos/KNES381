@@ -1,5 +1,5 @@
 <head>
-<h1><center>Markdown Assignment</center></h1>
+<h1 align="center">Markdown Assignment</h1>
 </head>
 
-## this info
+Here is a lovely picture. 
