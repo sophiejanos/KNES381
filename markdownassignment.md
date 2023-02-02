@@ -3,7 +3,7 @@
 </head>
 
 Here is a [lovely picture.](images/catimage.jpeg)
-![image align="right"](/images/catimage.jpeg)
+![cat](/img/images/catimage.jpeg#right)
 
 Adding colours was definitely super easy to figure out.
 
