@@ -8,4 +8,4 @@ Adding colours was super easy to figure out.
 
 Wow, I wonder [what this is.](https://github.com/sophiejanos/KNES381/blob/eca44679e4d3fcb8fd9d330e7c6f72e431a2620d/readme3.md)
 
-I sure love 
+Oh yay! VO<sub>2</sub>
