@@ -2,7 +2,7 @@
 <h1 align="center">Markdown Assignment</h1>
 </head>
 
-Here is a [lovely picture.](images/cow.jpg) <p align="right"> <img src="images/cow.jpg" />
+Here is a [lovely picture.](images/cow.jpg) <IMG align="right" src="images/cow.jpg" alt="my boat">
 
 Adding colours was definitely super easy to figure out.
 
