@@ -4,8 +4,6 @@
 
 Here is a [lovely picture in a sub-folder.](images/cow.jpg) <IMG align="right" src="images/cow.jpg">
 
-Adding colours was definitely super easy to figure out.
-
 > __Note__
   that's some coloured text
 
