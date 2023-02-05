@@ -11,4 +11,4 @@ ${\color {purple} yay colours.}$
 
 Wow, I wonder [what this is.](readme3.md)
 
-Oh yay! VO<sub>2</sub>
+Oh yay! <span>V&#x0307;</span>O<sub>2</sub>
