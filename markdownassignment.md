@@ -7,7 +7,9 @@ Here is a [lovely picture in a sub-folder.](images/cow.jpg) <IMG align="right" s
 > __Note__
   that's some coloured text
 
-${\color {purple} yay colours.}$
+${\color {purple} purple!}$
+  ${\color {green} green!}$
+  ${\color {orange} orange!}$
 
 Wow, I wonder [what this is.](readme3.md)
 
