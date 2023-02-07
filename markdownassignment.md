@@ -2,7 +2,7 @@
 <h1 align="center">Markdown Assignment</h1>
 </head>
 
-Here is a [lovely picture in a sub-folder.](images/cow.jpg) <IMG align="right" src="images/cow.jpg">
+Here is a lovely picture in a sub-folder. <IMG align="right" src="images/cow.jpg">
 
 > __Note__
   that's some coloured text
