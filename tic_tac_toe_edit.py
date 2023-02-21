@@ -1,5 +1,5 @@
 def print_rules():
-    print("Welcome to Tic Tac Toe!")
+    print("Welcome to tic-tac-toe!")
     print("How to play:")
     print("stars and hearts will take turns putting their symbol on the board")
     print("the first player to get 3 of their marks in a row, column or diagonally wins!")
