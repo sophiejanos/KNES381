@@ -1,8 +1,8 @@
 def print_rules():
     print("Welcome to tic-tac-toe!")
     print("How to play:")
-    print("stars and hearts will take turns putting their symbol on the board")
-    print("the first player to get 3 of their marks in a row, column or diagonally wins!")
+    print("Stars and hearts will take turns putting their symbol on the board.")
+    print("The first player to get 3 of their marks in a row, column or diagonally wins!")
   
     agree = input("Does that sound good? (Y/N): ")
     if agree.lower() == "n":
@@ -60,8 +60,9 @@ def play_game():
     winner = None
     draw = False
 
-    #loop until the game is over
+    # loop until the game is over
     while not winner and not draw:
+        # print the current board
         for row in board:
             print(" ".join(row), end="\n")
         
