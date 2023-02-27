@@ -92,7 +92,7 @@ def play_game():
     if winner:
         print(f" YAY!! Player {winner} is victorious!")
     else:
-        print("The game is a draw)
+        print("The game is a draw")
         
 # play the game
 play_game()
