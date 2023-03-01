@@ -90,9 +90,9 @@ def play_game():
 
     # print the result of the game
     if winner:
-        print(f" YAY!! Player {winner} is victorious!")
+        print(f"YAY!! Player {winner} is victorious!")
     else:
-        print("The game is a draw")
+        print("It's a tie...")
         
 # play the game
 play_game()
